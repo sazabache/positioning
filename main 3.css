@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: content-box;
+}
+div{
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+.a{
+	background-color: #ee3e64;
+	}
+#be{
+	background-color: #44accf;
+	position: absolute;
+	left: 200px;
+	}
+.ce{
+	background-color: #b7d84b;
+	}
+.de{
+	background-color: #FFFF00;
+	}
